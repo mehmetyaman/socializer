@@ -30,3 +30,4 @@ java -jar target/socializer-1.0-SNAPSHOT-fat.jar
 
 Then, open a browser to http://localhost:8080.
 
+# socializer
