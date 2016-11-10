@@ -1,15 +1,10 @@
-# My First Vert.x 3 Application
+# socializer
 
-This project is a very simple Vert.x 3 application and contains some explaination on how this application is built 
-and tested.
+Touching people via social channels
 
 ## Building
 
-You build the project using:
-
-```
-mvn clean package
-```
+gradle clean build
 
 ## Testing
 
